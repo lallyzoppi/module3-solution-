@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+}
+
+/* NAVBAR */
+#header-nav {
+  background-color: #999;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #000 !important;
+}
+
+/* MOBILE MENU */
+#nav-list {
+  background-color: #ddd;
+  margin: 0;
+}
+
+#nav-list a {
+  color: #000;
+  border: 1px solid #000;
+}
+
+#nav-list a:hover {
+  background-color: #eee;
+}
+
+/* TITLE */
+.page-title {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+/* SECTION */
+#main-content {
+  background-color: #999;
+  height: 1000px;
+  padding: 20px;
+}
